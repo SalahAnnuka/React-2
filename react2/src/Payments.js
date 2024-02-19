@@ -9,7 +9,7 @@ class Payments extends React.Component{
     render(){
         return(
 
-            <div></div>
+            <div>Payments here</div>
         );
     } 
 }
