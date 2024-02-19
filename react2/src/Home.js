@@ -13,7 +13,7 @@ class Home extends React.Component{
                 <form className="login">
                     <input type="text" placeholder="Username" className="field"/>
                     <input type="password" placeholder="Password" className="field"/>
-                    <a className="submit">Login</a>
+                    <a className="submit" href="#">Login</a>
 
                 </form>
             </div>

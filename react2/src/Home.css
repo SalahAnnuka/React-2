@@ -30,6 +30,7 @@
     color: white;
     justify-content: center;
     align-items: center;
+    text-decoration: none;
 }
 
 .submit:hover{
