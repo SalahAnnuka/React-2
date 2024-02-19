@@ -1,5 +1,5 @@
 import React from "react";
-import "./Home.css";
+import './Home.css';
 
 
 class Home extends React.Component{
@@ -8,8 +8,14 @@ class Home extends React.Component{
     }
     render(){
         return(
+            <div className="home">
+                <form className="login">
+                    <input type="text" placeholder="Username" className="field"/>
+                    <input type="password" placeholder="Password" className="field"/>
+                    <div className="submit">Login</div>
 
-            <div></div>
+                </form>
+            </div>
         );
     } 
 }
