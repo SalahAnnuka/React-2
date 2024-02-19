@@ -1,4 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap');
+
+
 .App {
+  display: flex;
+  flex-direction: column;
   text-align: center;
   width: 100vw;
   height: 100vh;
@@ -13,6 +18,7 @@
   justify-content: space-around;
   background-color: purple;
   color: white;
+  font-family: 'Roboto', sans-serif;
 }
 
 .divider{
