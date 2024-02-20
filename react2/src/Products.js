@@ -9,7 +9,7 @@ class Products extends React.Component{
     render(){
         return(
 
-            <div>Products here</div>
+            <div className="Products">Products here</div>
         );
     } 
 }
