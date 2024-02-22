@@ -47,6 +47,9 @@
 .item:link{
   color: white;
 }
+.item:visited{
+  color: white;
+}
 .item:hover{
   color: #e7e7e7;
 }
